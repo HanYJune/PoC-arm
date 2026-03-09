@@ -1,0 +1,624 @@
+Last node flushed, predicted address cached:
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 0
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 10
+0/1000 transient, 997/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 20
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 30
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 40
+0/1000 transient, 996/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 50
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 60
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 70
+0/1000 transient, 997/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 80
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 90
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 100
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 110
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 120
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 130
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 140
+5/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 150
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 160
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 170
+0/1000 transient, 997/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 180
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 190
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 200
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 210
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 220
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 230
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 240
+0/1000 transient, 997/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 250
+0/1000 transient, 997/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 260
+0/1000 transient, 996/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 270
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 280
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 290
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 300
+0/1000 transient, 997/1000 architectural
+
+Last node cached, predicted address cached:
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 0
+10/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 10
+0/1000 transient, 997/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 20
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 30
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 40
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 50
+0/1000 transient, 997/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 60
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 70
+1/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 80
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 90
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 100
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 110
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 120
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 130
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 140
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 150
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 160
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 170
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 180
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 190
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 200
+1/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 210
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 220
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 230
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 240
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 250
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 260
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 270
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 280
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 290
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 300
+0/1000 transient, 999/1000 architectural
+
+Last node flushed, predicted address flushed:
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 0
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 10
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 20
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 30
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 40
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 50
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 60
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 70
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 80
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 90
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 100
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 110
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 120
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 130
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 140
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 150
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 160
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 170
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 180
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 190
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 200
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 210
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 220
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 230
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 240
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 250
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 260
+0/1000 transient, 997/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 270
+2/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 280
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 290
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 300
+0/1000 transient, 999/1000 architectural
+
+Last node cached, predicted address flushed:
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 0
+0/1000 transient, 995/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 10
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 20
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 30
+2/1000 transient, 996/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 40
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 50
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 60
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 70
+4/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 80
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 90
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 100
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 110
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 120
+1/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 130
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 140
+0/1000 transient, 997/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 150
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 160
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 170
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 180
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 190
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 200
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 210
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 220
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 230
+0/1000 transient, 1000/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 240
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 250
+0/1000 transient, 998/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 260
+1/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 270
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 280
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 290
+0/1000 transient, 999/1000 architectural
+
+Linked list length: 200
+Stride between loads: 64
+MULs in speculation window: 300
+0/1000 transient, 998/1000 architectural
+

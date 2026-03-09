@@ -1,0 +1,302 @@
+==== ORR count: 0 ====
+min transient access: 26
+==== ORR count: 1 ====
+min transient access: 26
+==== ORR count: 2 ====
+min transient access: 26
+==== ORR count: 3 ====
+min transient access: 26
+==== ORR count: 4 ====
+min transient access: 26
+==== ORR count: 5 ====
+min transient access: 26
+==== ORR count: 6 ====
+min transient access: 26
+==== ORR count: 7 ====
+min transient access: 26
+==== ORR count: 8 ====
+min transient access: 26
+==== ORR count: 9 ====
+min transient access: 26
+==== ORR count: 10 ====
+min transient access: 27
+==== ORR count: 11 ====
+min transient access: 26
+==== ORR count: 12 ====
+min transient access: 26
+==== ORR count: 13 ====
+min transient access: 26
+==== ORR count: 14 ====
+min transient access: 26
+==== ORR count: 15 ====
+min transient access: 26
+==== ORR count: 16 ====
+min transient access: 26
+==== ORR count: 17 ====
+min transient access: 26
+==== ORR count: 18 ====
+min transient access: 26
+==== ORR count: 19 ====
+min transient access: 26
+==== ORR count: 20 ====
+min transient access: 26
+==== ORR count: 21 ====
+min transient access: 26
+==== ORR count: 22 ====
+min transient access: 26
+==== ORR count: 23 ====
+min transient access: 26
+==== ORR count: 24 ====
+min transient access: 26
+==== ORR count: 25 ====
+min transient access: 26
+==== ORR count: 26 ====
+min transient access: 26
+==== ORR count: 27 ====
+min transient access: 26
+==== ORR count: 28 ====
+min transient access: 26
+==== ORR count: 29 ====
+min transient access: 26
+==== ORR count: 30 ====
+min transient access: 26
+==== ORR count: 31 ====
+min transient access: 26
+==== ORR count: 32 ====
+min transient access: 26
+==== ORR count: 33 ====
+min transient access: 26
+==== ORR count: 34 ====
+min transient access: 26
+==== ORR count: 35 ====
+min transient access: 26
+==== ORR count: 36 ====
+min transient access: 26
+==== ORR count: 37 ====
+min transient access: 26
+==== ORR count: 38 ====
+min transient access: 26
+==== ORR count: 39 ====
+min transient access: 26
+==== ORR count: 40 ====
+min transient access: 26
+==== ORR count: 41 ====
+min transient access: 26
+==== ORR count: 42 ====
+min transient access: 26
+==== ORR count: 43 ====
+min transient access: 26
+==== ORR count: 44 ====
+min transient access: 26
+==== ORR count: 45 ====
+min transient access: 26
+==== ORR count: 46 ====
+min transient access: 26
+==== ORR count: 47 ====
+min transient access: 26
+==== ORR count: 48 ====
+min transient access: 26
+==== ORR count: 49 ====
+min transient access: 26
+==== ORR count: 50 ====
+min transient access: 26
+==== ORR count: 51 ====
+min transient access: 26
+==== ORR count: 52 ====
+min transient access: 26
+==== ORR count: 53 ====
+min transient access: 156
+==== ORR count: 54 ====
+min transient access: 182
+==== ORR count: 55 ====
+min transient access: 130
+==== ORR count: 56 ====
+min transient access: 131
+==== ORR count: 57 ====
+min transient access: 182
+==== ORR count: 58 ====
+min transient access: 130
+==== ORR count: 59 ====
+min transient access: 130
+==== ORR count: 60 ====
+min transient access: 156
+==== ORR count: 61 ====
+min transient access: 182
+==== ORR count: 62 ====
+min transient access: 131
+==== ORR count: 63 ====
+min transient access: 156
+==== ORR count: 64 ====
+min transient access: 156
+==== ORR count: 65 ====
+min transient access: 156
+==== ORR count: 66 ====
+min transient access: 156
+==== ORR count: 67 ====
+min transient access: 130
+==== ORR count: 68 ====
+min transient access: 156
+==== ORR count: 69 ====
+min transient access: 157
+==== ORR count: 70 ====
+min transient access: 156
+==== ORR count: 71 ====
+min transient access: 156
+==== ORR count: 72 ====
+min transient access: 156
+==== ORR count: 73 ====
+min transient access: 156
+==== ORR count: 74 ====
+min transient access: 130
+==== ORR count: 75 ====
+min transient access: 156
+==== ORR count: 76 ====
+min transient access: 130
+==== ORR count: 77 ====
+min transient access: 182
+==== ORR count: 78 ====
+min transient access: 156
+==== ORR count: 79 ====
+min transient access: 156
+==== ORR count: 80 ====
+min transient access: 131
+==== ORR count: 81 ====
+min transient access: 104
+==== ORR count: 82 ====
+min transient access: 130
+==== ORR count: 83 ====
+min transient access: 131
+==== ORR count: 84 ====
+min transient access: 130
+==== ORR count: 85 ====
+min transient access: 131
+==== ORR count: 86 ====
+min transient access: 156
+==== ORR count: 87 ====
+min transient access: 156
+==== ORR count: 88 ====
+min transient access: 130
+==== ORR count: 89 ====
+min transient access: 130
+==== ORR count: 90 ====
+min transient access: 131
+==== ORR count: 91 ====
+min transient access: 157
+==== ORR count: 92 ====
+min transient access: 157
+==== ORR count: 93 ====
+min transient access: 156
+==== ORR count: 94 ====
+min transient access: 130
+==== ORR count: 95 ====
+min transient access: 183
+==== ORR count: 96 ====
+min transient access: 131
+==== ORR count: 97 ====
+min transient access: 156
+==== ORR count: 98 ====
+min transient access: 156
+==== ORR count: 99 ====
+min transient access: 130
+==== ORR count: 100 ====
+min transient access: 156
+==== ORR count: 101 ====
+min transient access: 156
+==== ORR count: 102 ====
+min transient access: 157
+==== ORR count: 103 ====
+min transient access: 130
+==== ORR count: 104 ====
+min transient access: 131
+==== ORR count: 105 ====
+min transient access: 130
+==== ORR count: 106 ====
+min transient access: 156
+==== ORR count: 107 ====
+min transient access: 156
+==== ORR count: 108 ====
+min transient access: 130
+==== ORR count: 109 ====
+min transient access: 182
+==== ORR count: 110 ====
+min transient access: 156
+==== ORR count: 111 ====
+min transient access: 156
+==== ORR count: 112 ====
+min transient access: 130
+==== ORR count: 113 ====
+min transient access: 156
+==== ORR count: 114 ====
+min transient access: 131
+==== ORR count: 115 ====
+min transient access: 156
+==== ORR count: 116 ====
+min transient access: 156
+==== ORR count: 117 ====
+min transient access: 157
+==== ORR count: 118 ====
+min transient access: 156
+==== ORR count: 119 ====
+min transient access: 130
+==== ORR count: 120 ====
+min transient access: 156
+==== ORR count: 121 ====
+min transient access: 130
+==== ORR count: 122 ====
+min transient access: 156
+==== ORR count: 123 ====
+min transient access: 156
+==== ORR count: 124 ====
+min transient access: 157
+==== ORR count: 125 ====
+min transient access: 156
+==== ORR count: 126 ====
+min transient access: 157
+==== ORR count: 127 ====
+min transient access: 156
+==== ORR count: 128 ====
+min transient access: 156
+==== ORR count: 129 ====
+min transient access: 130
+==== ORR count: 130 ====
+min transient access: 130
+==== ORR count: 131 ====
+min transient access: 156
+==== ORR count: 132 ====
+min transient access: 156
+==== ORR count: 133 ====
+min transient access: 156
+==== ORR count: 134 ====
+min transient access: 182
+==== ORR count: 135 ====
+min transient access: 156
+==== ORR count: 136 ====
+min transient access: 183
+==== ORR count: 137 ====
+min transient access: 156
+==== ORR count: 138 ====
+min transient access: 182
+==== ORR count: 139 ====
+min transient access: 156
+==== ORR count: 140 ====
+min transient access: 157
+==== ORR count: 141 ====
+min transient access: 156
+==== ORR count: 142 ====
+min transient access: 156
+==== ORR count: 143 ====
+min transient access: 156
+==== ORR count: 144 ====
+min transient access: 157
+==== ORR count: 145 ====
+min transient access: 156
+==== ORR count: 146 ====
+min transient access: 130
+==== ORR count: 147 ====
+min transient access: 182
+==== ORR count: 148 ====
+min transient access: 130
+==== ORR count: 149 ====
+min transient access: 182
+==== ORR count: 150 ====
+min transient access: 156

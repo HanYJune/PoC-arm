@@ -1,0 +1,700 @@
+Iters = 10
+Loop Random Addr + Random Value: 134.00
+Unrolled Random Addr + Random Value: 135.00
+Loop Striding Addr + Striding Value: 134.00
+Unrolled Striding Addr + Striding Value: 135.00
+Loop Striding Addr + Random Value: 155.00
+
+Iters = 20
+Loop Random Addr + Random Value: 214.00
+Unrolled Random Addr + Random Value: 215.00
+Loop Striding Addr + Striding Value: 214.00
+Unrolled Striding Addr + Striding Value: 215.00
+Loop Striding Addr + Random Value: 265.00
+
+Iters = 30
+Loop Random Addr + Random Value: 302.00
+Unrolled Random Addr + Random Value: 295.00
+Loop Striding Addr + Striding Value: 302.00
+Unrolled Striding Addr + Striding Value: 295.00
+Loop Striding Addr + Random Value: 394.00
+
+Iters = 40
+Loop Random Addr + Random Value: 394.00
+Unrolled Random Addr + Random Value: 375.00
+Loop Striding Addr + Striding Value: 394.00
+Unrolled Striding Addr + Striding Value: 375.00
+Loop Striding Addr + Random Value: 517.00
+
+Iters = 50
+Loop Random Addr + Random Value: 462.00
+Unrolled Random Addr + Random Value: 455.00
+Loop Striding Addr + Striding Value: 462.00
+Unrolled Striding Addr + Striding Value: 455.00
+Loop Striding Addr + Random Value: 613.00
+
+Iters = 60
+Loop Random Addr + Random Value: 542.00
+Unrolled Random Addr + Random Value: 535.00
+Loop Striding Addr + Striding Value: 542.00
+Unrolled Striding Addr + Striding Value: 535.00
+Loop Striding Addr + Random Value: 723.00
+
+Iters = 70
+Loop Random Addr + Random Value: 622.00
+Unrolled Random Addr + Random Value: 615.00
+Loop Striding Addr + Striding Value: 622.00
+Unrolled Striding Addr + Striding Value: 615.00
+Loop Striding Addr + Random Value: 833.00
+
+Iters = 80
+Loop Random Addr + Random Value: 702.00
+Unrolled Random Addr + Random Value: 695.00
+Loop Striding Addr + Striding Value: 702.00
+Unrolled Striding Addr + Striding Value: 695.00
+Loop Striding Addr + Random Value: 947.00
+
+Iters = 90
+Loop Random Addr + Random Value: 782.00
+Unrolled Random Addr + Random Value: 775.00
+Loop Striding Addr + Striding Value: 782.00
+Unrolled Striding Addr + Striding Value: 775.00
+Loop Striding Addr + Random Value: 1053.00
+
+Iters = 100
+Loop Random Addr + Random Value: 862.00
+Unrolled Random Addr + Random Value: 855.00
+Loop Striding Addr + Striding Value: 862.00
+Unrolled Striding Addr + Striding Value: 855.00
+Loop Striding Addr + Random Value: 1163.00
+
+Iters = 110
+Loop Random Addr + Random Value: 942.00
+Unrolled Random Addr + Random Value: 935.00
+Loop Striding Addr + Striding Value: 942.00
+Unrolled Striding Addr + Striding Value: 935.00
+Loop Striding Addr + Random Value: 1277.00
+
+Iters = 120
+Loop Random Addr + Random Value: 1022.00
+Unrolled Random Addr + Random Value: 1015.00
+Loop Striding Addr + Striding Value: 1022.00
+Unrolled Striding Addr + Striding Value: 1015.00
+Loop Striding Addr + Random Value: 1387.00
+
+Iters = 130
+Loop Random Addr + Random Value: 1102.00
+Unrolled Random Addr + Random Value: 1095.00
+Loop Striding Addr + Striding Value: 1102.00
+Unrolled Striding Addr + Striding Value: 1095.00
+Loop Striding Addr + Random Value: 1498.00
+
+Iters = 140
+Loop Random Addr + Random Value: 1182.00
+Unrolled Random Addr + Random Value: 1175.00
+Loop Striding Addr + Striding Value: 1191.00
+Unrolled Striding Addr + Striding Value: 1175.00
+Loop Striding Addr + Random Value: 1611.00
+
+Iters = 150
+Loop Random Addr + Random Value: 1262.00
+Unrolled Random Addr + Random Value: 1255.00
+Loop Striding Addr + Striding Value: 1262.00
+Unrolled Striding Addr + Striding Value: 1255.00
+Loop Striding Addr + Random Value: 1728.00
+
+Iters = 160
+Loop Random Addr + Random Value: 1342.00
+Unrolled Random Addr + Random Value: 1335.00
+Loop Striding Addr + Striding Value: 1342.00
+Unrolled Striding Addr + Striding Value: 1343.00
+Loop Striding Addr + Random Value: 1827.00
+
+Iters = 170
+Loop Random Addr + Random Value: 1422.00
+Unrolled Random Addr + Random Value: 1415.00
+Loop Striding Addr + Striding Value: 1422.00
+Unrolled Striding Addr + Striding Value: 1415.00
+Loop Striding Addr + Random Value: 1948.00
+
+Iters = 180
+Loop Random Addr + Random Value: 1502.00
+Unrolled Random Addr + Random Value: 1495.00
+Loop Striding Addr + Striding Value: 1502.00
+Unrolled Striding Addr + Striding Value: 1495.00
+Loop Striding Addr + Random Value: 2054.00
+
+Iters = 190
+Loop Random Addr + Random Value: 1594.00
+Unrolled Random Addr + Random Value: 1575.00
+Loop Striding Addr + Striding Value: 1582.00
+Unrolled Striding Addr + Striding Value: 1575.00
+Loop Striding Addr + Random Value: 2161.00
+
+Iters = 200
+Loop Random Addr + Random Value: 1662.00
+Unrolled Random Addr + Random Value: 1655.00
+Loop Striding Addr + Striding Value: 1662.00
+Unrolled Striding Addr + Striding Value: 1655.00
+Loop Striding Addr + Random Value: 2267.00
+
+Iters = 210
+Loop Random Addr + Random Value: 1742.00
+Unrolled Random Addr + Random Value: 1735.00
+Loop Striding Addr + Striding Value: 1742.00
+Unrolled Striding Addr + Striding Value: 1735.00
+Loop Striding Addr + Random Value: 2391.00
+
+Iters = 220
+Loop Random Addr + Random Value: 1828.00
+Unrolled Random Addr + Random Value: 1815.00
+Loop Striding Addr + Striding Value: 1822.00
+Unrolled Striding Addr + Striding Value: 1815.00
+Loop Striding Addr + Random Value: 2491.00
+
+Iters = 230
+Loop Random Addr + Random Value: 1908.00
+Unrolled Random Addr + Random Value: 1903.00
+Loop Striding Addr + Striding Value: 1902.00
+Unrolled Striding Addr + Striding Value: 1903.00
+Loop Striding Addr + Random Value: 2601.00
+
+Iters = 240
+Loop Random Addr + Random Value: 1982.00
+Unrolled Random Addr + Random Value: 1983.00
+Loop Striding Addr + Striding Value: 1982.00
+Unrolled Striding Addr + Striding Value: 1983.00
+Loop Striding Addr + Random Value: 2718.00
+
+Iters = 250
+Loop Random Addr + Random Value: 2062.00
+Unrolled Random Addr + Random Value: 2063.00
+Loop Striding Addr + Striding Value: 2062.00
+Unrolled Striding Addr + Striding Value: 2063.00
+Loop Striding Addr + Random Value: 2828.00
+
+Iters = 260
+Loop Random Addr + Random Value: 2142.00
+Unrolled Random Addr + Random Value: 2143.00
+Loop Striding Addr + Striding Value: 2142.00
+Unrolled Striding Addr + Striding Value: 2143.00
+Loop Striding Addr + Random Value: 2938.00
+
+Iters = 270
+Loop Random Addr + Random Value: 2222.00
+Unrolled Random Addr + Random Value: 2223.00
+Loop Striding Addr + Striding Value: 2222.00
+Unrolled Striding Addr + Striding Value: 2223.00
+Loop Striding Addr + Random Value: 3041.00
+
+Iters = 280
+Loop Random Addr + Random Value: 2302.00
+Unrolled Random Addr + Random Value: 2303.00
+Loop Striding Addr + Striding Value: 2302.00
+Unrolled Striding Addr + Striding Value: 2303.00
+Loop Striding Addr + Random Value: 3151.00
+
+Iters = 290
+Loop Random Addr + Random Value: 2382.00
+Unrolled Random Addr + Random Value: 2383.00
+Loop Striding Addr + Striding Value: 2382.00
+Unrolled Striding Addr + Striding Value: 2383.00
+Loop Striding Addr + Random Value: 3261.00
+
+Iters = 300
+Loop Random Addr + Random Value: 2462.00
+Unrolled Random Addr + Random Value: 2463.00
+Loop Striding Addr + Striding Value: 2462.00
+Unrolled Striding Addr + Striding Value: 2463.00
+Loop Striding Addr + Random Value: 3371.00
+
+Iters = 310
+Loop Random Addr + Random Value: 2542.00
+Unrolled Random Addr + Random Value: 2543.00
+Loop Striding Addr + Striding Value: 2542.00
+Unrolled Striding Addr + Striding Value: 2543.00
+Loop Striding Addr + Random Value: 3481.00
+
+Iters = 320
+Loop Random Addr + Random Value: 2622.00
+Unrolled Random Addr + Random Value: 2623.00
+Loop Striding Addr + Striding Value: 2626.00
+Unrolled Striding Addr + Striding Value: 2627.00
+Loop Striding Addr + Random Value: 3380.00
+
+Iters = 330
+Loop Random Addr + Random Value: 2702.00
+Unrolled Random Addr + Random Value: 2695.00
+Loop Striding Addr + Striding Value: 2702.00
+Unrolled Striding Addr + Striding Value: 2695.00
+Loop Striding Addr + Random Value: 3705.00
+
+Iters = 340
+Loop Random Addr + Random Value: 2782.00
+Unrolled Random Addr + Random Value: 2775.00
+Loop Striding Addr + Striding Value: 2782.00
+Unrolled Striding Addr + Striding Value: 2775.00
+Loop Striding Addr + Random Value: 3815.00
+
+Iters = 350
+Loop Random Addr + Random Value: 2862.00
+Unrolled Random Addr + Random Value: 2855.00
+Loop Striding Addr + Striding Value: 2862.00
+Unrolled Striding Addr + Striding Value: 2855.00
+Loop Striding Addr + Random Value: 3925.00
+
+Iters = 360
+Loop Random Addr + Random Value: 2942.00
+Unrolled Random Addr + Random Value: 2935.00
+Loop Striding Addr + Striding Value: 2942.00
+Unrolled Striding Addr + Striding Value: 2935.00
+Loop Striding Addr + Random Value: 4031.00
+
+Iters = 370
+Loop Random Addr + Random Value: 3022.00
+Unrolled Random Addr + Random Value: 3015.00
+Loop Striding Addr + Striding Value: 3028.00
+Unrolled Striding Addr + Striding Value: 3015.00
+Loop Striding Addr + Random Value: 4145.00
+
+Iters = 380
+Loop Random Addr + Random Value: 3102.00
+Unrolled Random Addr + Random Value: 3101.00
+Loop Striding Addr + Striding Value: 3102.00
+Unrolled Striding Addr + Striding Value: 3101.00
+Loop Striding Addr + Random Value: 4255.00
+
+Iters = 390
+Loop Random Addr + Random Value: 3182.00
+Unrolled Random Addr + Random Value: 3183.00
+Loop Striding Addr + Striding Value: 3182.00
+Unrolled Striding Addr + Striding Value: 3183.00
+Loop Striding Addr + Random Value: 4365.00
+
+Iters = 400
+Loop Random Addr + Random Value: 3262.00
+Unrolled Random Addr + Random Value: 3263.00
+Loop Striding Addr + Striding Value: 3262.00
+Unrolled Striding Addr + Striding Value: 3263.00
+Loop Striding Addr + Random Value: 4475.00
+
+Iters = 410
+Loop Random Addr + Random Value: 3342.00
+Unrolled Random Addr + Random Value: 3343.00
+Loop Striding Addr + Striding Value: 3342.00
+Unrolled Striding Addr + Striding Value: 3343.00
+Loop Striding Addr + Random Value: 4596.00
+
+Iters = 420
+Loop Random Addr + Random Value: 3428.00
+Unrolled Random Addr + Random Value: 3423.00
+Loop Striding Addr + Striding Value: 3422.00
+Unrolled Striding Addr + Striding Value: 3423.00
+Loop Striding Addr + Random Value: 4695.00
+
+Iters = 430
+Loop Random Addr + Random Value: 3508.00
+Unrolled Random Addr + Random Value: 3503.00
+Loop Striding Addr + Striding Value: 3502.00
+Unrolled Striding Addr + Striding Value: 3503.00
+Loop Striding Addr + Random Value: 4805.00
+
+Iters = 440
+Loop Random Addr + Random Value: 3582.00
+Unrolled Random Addr + Random Value: 3583.00
+Loop Striding Addr + Striding Value: 3588.00
+Unrolled Striding Addr + Striding Value: 3583.00
+Loop Striding Addr + Random Value: 4915.00
+
+Iters = 450
+Loop Random Addr + Random Value: 3662.00
+Unrolled Random Addr + Random Value: 3663.00
+Loop Striding Addr + Striding Value: 3662.00
+Unrolled Striding Addr + Striding Value: 3663.00
+Loop Striding Addr + Random Value: 5036.00
+
+Iters = 460
+Loop Random Addr + Random Value: 3742.00
+Unrolled Random Addr + Random Value: 3743.00
+Loop Striding Addr + Striding Value: 3742.00
+Unrolled Striding Addr + Striding Value: 3743.00
+Loop Striding Addr + Random Value: 5139.00
+
+Iters = 470
+Loop Random Addr + Random Value: 3822.00
+Unrolled Random Addr + Random Value: 3823.00
+Loop Striding Addr + Striding Value: 3822.00
+Unrolled Striding Addr + Striding Value: 3823.00
+Loop Striding Addr + Random Value: 5263.00
+
+Iters = 480
+Loop Random Addr + Random Value: 3902.00
+Unrolled Random Addr + Random Value: 3903.00
+Loop Striding Addr + Striding Value: 3902.00
+Unrolled Striding Addr + Striding Value: 3903.00
+Loop Striding Addr + Random Value: 5373.00
+
+Iters = 490
+Loop Random Addr + Random Value: 3982.00
+Unrolled Random Addr + Random Value: 3983.00
+Loop Striding Addr + Striding Value: 3982.00
+Unrolled Striding Addr + Striding Value: 3983.00
+Loop Striding Addr + Random Value: 5469.00
+
+Iters = 500
+Loop Random Addr + Random Value: 4062.00
+Unrolled Random Addr + Random Value: 4063.00
+Loop Striding Addr + Striding Value: 4062.00
+Unrolled Striding Addr + Striding Value: 4063.00
+Loop Striding Addr + Random Value: 5579.00
+
+Iters = 510
+Loop Random Addr + Random Value: 4142.00
+Unrolled Random Addr + Random Value: 4143.00
+Loop Striding Addr + Striding Value: 4142.00
+Unrolled Striding Addr + Striding Value: 4143.00
+Loop Striding Addr + Random Value: 5689.00
+
+Iters = 520
+Loop Random Addr + Random Value: 4222.00
+Unrolled Random Addr + Random Value: 4223.00
+Loop Striding Addr + Striding Value: 4228.00
+Unrolled Striding Addr + Striding Value: 4223.00
+Loop Striding Addr + Random Value: 5799.00
+
+Iters = 530
+Loop Random Addr + Random Value: 4308.00
+Unrolled Random Addr + Random Value: 4303.00
+Loop Striding Addr + Striding Value: 4302.00
+Unrolled Striding Addr + Striding Value: 4303.00
+Loop Striding Addr + Random Value: 5916.00
+
+Iters = 540
+Loop Random Addr + Random Value: 4382.00
+Unrolled Random Addr + Random Value: 4383.00
+Loop Striding Addr + Striding Value: 4382.00
+Unrolled Striding Addr + Striding Value: 4383.00
+Loop Striding Addr + Random Value: 6019.00
+
+Iters = 550
+Loop Random Addr + Random Value: 4468.00
+Unrolled Random Addr + Random Value: 4463.00
+Loop Striding Addr + Striding Value: 4468.00
+Unrolled Striding Addr + Striding Value: 4463.00
+Loop Striding Addr + Random Value: 6129.00
+
+Iters = 560
+Loop Random Addr + Random Value: 4542.00
+Unrolled Random Addr + Random Value: 4543.00
+Loop Striding Addr + Striding Value: 4542.00
+Unrolled Striding Addr + Striding Value: 4543.00
+Loop Striding Addr + Random Value: 6243.00
+
+Iters = 570
+Loop Random Addr + Random Value: 4628.00
+Unrolled Random Addr + Random Value: 4623.00
+Loop Striding Addr + Striding Value: 4648.00
+Unrolled Striding Addr + Striding Value: 4623.00
+Loop Striding Addr + Random Value: 6349.00
+
+Iters = 580
+Loop Random Addr + Random Value: 4702.00
+Unrolled Random Addr + Random Value: 4703.00
+Loop Striding Addr + Striding Value: 4702.00
+Unrolled Striding Addr + Striding Value: 4703.00
+Loop Striding Addr + Random Value: 6459.00
+
+Iters = 590
+Loop Random Addr + Random Value: 4782.00
+Unrolled Random Addr + Random Value: 4783.00
+Loop Striding Addr + Striding Value: 4782.00
+Unrolled Striding Addr + Striding Value: 4783.00
+Loop Striding Addr + Random Value: 6573.00
+
+Iters = 600
+Loop Random Addr + Random Value: 4862.00
+Unrolled Random Addr + Random Value: 4863.00
+Loop Striding Addr + Striding Value: 4874.00
+Unrolled Striding Addr + Striding Value: 4863.00
+Loop Striding Addr + Random Value: 6697.00
+
+Iters = 610
+Loop Random Addr + Random Value: 4954.00
+Unrolled Random Addr + Random Value: 4943.00
+Loop Striding Addr + Striding Value: 4942.00
+Unrolled Striding Addr + Striding Value: 4943.00
+Loop Striding Addr + Random Value: 6793.00
+
+Iters = 620
+Loop Random Addr + Random Value: 5022.00
+Unrolled Random Addr + Random Value: 5023.00
+Loop Striding Addr + Striding Value: 5022.00
+Unrolled Striding Addr + Striding Value: 5023.00
+Loop Striding Addr + Random Value: 7173.00
+
+Iters = 630
+Loop Random Addr + Random Value: 5102.00
+Unrolled Random Addr + Random Value: 5103.00
+Loop Striding Addr + Striding Value: 5102.00
+Unrolled Striding Addr + Striding Value: 5103.00
+Loop Striding Addr + Random Value: 7013.00
+
+Iters = 640
+Loop Random Addr + Random Value: 5182.00
+Unrolled Random Addr + Random Value: 5183.00
+Loop Striding Addr + Striding Value: 5182.00
+Unrolled Striding Addr + Striding Value: 5183.00
+Loop Striding Addr + Random Value: 7130.00
+
+Iters = 650
+Loop Random Addr + Random Value: 5262.00
+Unrolled Random Addr + Random Value: 5263.00
+Loop Striding Addr + Striding Value: 5274.00
+Unrolled Striding Addr + Striding Value: 5263.00
+Loop Striding Addr + Random Value: 7233.00
+
+Iters = 660
+Loop Random Addr + Random Value: 5342.00
+Unrolled Random Addr + Random Value: 5343.00
+Loop Striding Addr + Striding Value: 5342.00
+Unrolled Striding Addr + Striding Value: 5343.00
+Loop Striding Addr + Random Value: 7350.00
+
+Iters = 670
+Loop Random Addr + Random Value: 5422.00
+Unrolled Random Addr + Random Value: 5423.00
+Loop Striding Addr + Striding Value: 5422.00
+Unrolled Striding Addr + Striding Value: 5423.00
+Loop Striding Addr + Random Value: 7457.00
+
+Iters = 680
+Loop Random Addr + Random Value: 5502.00
+Unrolled Random Addr + Random Value: 5503.00
+Loop Striding Addr + Striding Value: 5502.00
+Unrolled Striding Addr + Striding Value: 5503.00
+Loop Striding Addr + Random Value: 7570.00
+
+Iters = 690
+Loop Random Addr + Random Value: 5582.00
+Unrolled Random Addr + Random Value: 5583.00
+Loop Striding Addr + Striding Value: 5582.00
+Unrolled Striding Addr + Striding Value: 5583.00
+Loop Striding Addr + Random Value: 7673.00
+
+Iters = 700
+Loop Random Addr + Random Value: 5662.00
+Unrolled Random Addr + Random Value: 5663.00
+Loop Striding Addr + Striding Value: 5662.00
+Unrolled Striding Addr + Striding Value: 5663.00
+Loop Striding Addr + Random Value: 7783.00
+
+Iters = 710
+Loop Random Addr + Random Value: 5742.00
+Unrolled Random Addr + Random Value: 5743.00
+Loop Striding Addr + Striding Value: 5742.00
+Unrolled Striding Addr + Striding Value: 5743.00
+Loop Striding Addr + Random Value: 7897.00
+
+Iters = 720
+Loop Random Addr + Random Value: 5822.00
+Unrolled Random Addr + Random Value: 5823.00
+Loop Striding Addr + Striding Value: 5822.00
+Unrolled Striding Addr + Striding Value: 5823.00
+Loop Striding Addr + Random Value: 8007.00
+
+Iters = 730
+Loop Random Addr + Random Value: 5902.00
+Unrolled Random Addr + Random Value: 5903.00
+Loop Striding Addr + Striding Value: 5902.00
+Unrolled Striding Addr + Striding Value: 5903.00
+Loop Striding Addr + Random Value: 8117.00
+
+Iters = 740
+Loop Random Addr + Random Value: 5982.00
+Unrolled Random Addr + Random Value: 5983.00
+Loop Striding Addr + Striding Value: 5982.00
+Unrolled Striding Addr + Striding Value: 5983.00
+Loop Striding Addr + Random Value: 8230.00
+
+Iters = 750
+Loop Random Addr + Random Value: 6074.00
+Unrolled Random Addr + Random Value: 6063.00
+Loop Striding Addr + Striding Value: 6062.00
+Unrolled Striding Addr + Striding Value: 6063.00
+Loop Striding Addr + Random Value: 8333.00
+
+Iters = 760
+Loop Random Addr + Random Value: 6142.00
+Unrolled Random Addr + Random Value: 6143.00
+Loop Striding Addr + Striding Value: 6142.00
+Unrolled Striding Addr + Striding Value: 6143.00
+Loop Striding Addr + Random Value: 8447.00
+
+Iters = 770
+Loop Random Addr + Random Value: 6222.00
+Unrolled Random Addr + Random Value: 6223.00
+Loop Striding Addr + Striding Value: 6222.00
+Unrolled Striding Addr + Striding Value: 6223.00
+Loop Striding Addr + Random Value: 8557.00
+
+Iters = 780
+Loop Random Addr + Random Value: 6302.00
+Unrolled Random Addr + Random Value: 6303.00
+Loop Striding Addr + Striding Value: 6302.00
+Unrolled Striding Addr + Striding Value: 6303.00
+Loop Striding Addr + Random Value: 8674.00
+
+Iters = 790
+Loop Random Addr + Random Value: 6382.00
+Unrolled Random Addr + Random Value: 6383.00
+Loop Striding Addr + Striding Value: 6382.00
+Unrolled Striding Addr + Striding Value: 6383.00
+Loop Striding Addr + Random Value: 8777.00
+
+Iters = 800
+Loop Random Addr + Random Value: 6462.00
+Unrolled Random Addr + Random Value: 6463.00
+Loop Striding Addr + Striding Value: 6462.00
+Unrolled Striding Addr + Striding Value: 6463.00
+Loop Striding Addr + Random Value: 8887.00
+
+Iters = 810
+Loop Random Addr + Random Value: 6542.00
+Unrolled Random Addr + Random Value: 6543.00
+Loop Striding Addr + Striding Value: 6555.00
+Unrolled Striding Addr + Striding Value: 6543.00
+Loop Striding Addr + Random Value: 9001.00
+
+Iters = 820
+Loop Random Addr + Random Value: 6628.00
+Unrolled Random Addr + Random Value: 6629.00
+Loop Striding Addr + Striding Value: 6622.00
+Unrolled Striding Addr + Striding Value: 6623.00
+Loop Striding Addr + Random Value: 9107.00
+
+Iters = 830
+Loop Random Addr + Random Value: 6702.00
+Unrolled Random Addr + Random Value: 6703.00
+Loop Striding Addr + Striding Value: 6702.00
+Unrolled Striding Addr + Striding Value: 6703.00
+Loop Striding Addr + Random Value: 9224.00
+
+Iters = 840
+Loop Random Addr + Random Value: 6782.00
+Unrolled Random Addr + Random Value: 6783.00
+Loop Striding Addr + Striding Value: 6796.00
+Unrolled Striding Addr + Striding Value: 6804.00
+Loop Striding Addr + Random Value: 9339.00
+
+Iters = 850
+Loop Random Addr + Random Value: 6868.00
+Unrolled Random Addr + Random Value: 6863.00
+Loop Striding Addr + Striding Value: 6874.00
+Unrolled Striding Addr + Striding Value: 6863.00
+Loop Striding Addr + Random Value: 9448.00
+
+Iters = 860
+Loop Random Addr + Random Value: 6942.00
+Unrolled Random Addr + Random Value: 6943.00
+Loop Striding Addr + Striding Value: 6942.00
+Unrolled Striding Addr + Striding Value: 6943.00
+Loop Striding Addr + Random Value: 9558.00
+
+Iters = 870
+Loop Random Addr + Random Value: 7022.00
+Unrolled Random Addr + Random Value: 7023.00
+Loop Striding Addr + Striding Value: 7022.00
+Unrolled Striding Addr + Striding Value: 7037.00
+Loop Striding Addr + Random Value: 9657.00
+
+Iters = 880
+Loop Random Addr + Random Value: 7102.00
+Unrolled Random Addr + Random Value: 7103.00
+Loop Striding Addr + Striding Value: 7135.00
+Unrolled Striding Addr + Striding Value: 7117.50
+Loop Striding Addr + Random Value: 9819.50
+
+Iters = 890
+Loop Random Addr + Random Value: 7182.00
+Unrolled Random Addr + Random Value: 7183.00
+Loop Striding Addr + Striding Value: 7182.00
+Unrolled Striding Addr + Striding Value: 7183.00
+Loop Striding Addr + Random Value: 9895.00
+
+Iters = 900
+Loop Random Addr + Random Value: 7262.00
+Unrolled Random Addr + Random Value: 7263.00
+Loop Striding Addr + Striding Value: 7289.00
+Unrolled Striding Addr + Striding Value: 7284.00
+Loop Striding Addr + Random Value: 10037.00
+
+Iters = 910
+Loop Random Addr + Random Value: 7342.00
+Unrolled Random Addr + Random Value: 7343.00
+Loop Striding Addr + Striding Value: 7352.00
+Unrolled Striding Addr + Striding Value: 7350.00
+Loop Striding Addr + Random Value: 10108.00
+
+Iters = 920
+Loop Random Addr + Random Value: 7422.00
+Unrolled Random Addr + Random Value: 7423.00
+Loop Striding Addr + Striding Value: 7443.00
+Unrolled Striding Addr + Striding Value: 7449.50
+Loop Striding Addr + Random Value: 10228.00
+
+Iters = 930
+Loop Random Addr + Random Value: 7502.00
+Unrolled Random Addr + Random Value: 7503.00
+Loop Striding Addr + Striding Value: 7523.00
+Unrolled Striding Addr + Striding Value: 7524.00
+Loop Striding Addr + Random Value: 10338.50
+
+Iters = 940
+Loop Random Addr + Random Value: 7588.00
+Unrolled Random Addr + Random Value: 7583.00
+Loop Striding Addr + Striding Value: 7622.50
+Unrolled Striding Addr + Striding Value: 7604.00
+Loop Striding Addr + Random Value: 10445.00
+
+Iters = 950
+Loop Random Addr + Random Value: 7662.00
+Unrolled Random Addr + Random Value: 7663.00
+Loop Striding Addr + Striding Value: 7689.50
+Unrolled Striding Addr + Striding Value: 7684.00
+Loop Striding Addr + Random Value: 10565.00
+
+Iters = 960
+Loop Random Addr + Random Value: 7742.00
+Unrolled Random Addr + Random Value: 7743.00
+Loop Striding Addr + Striding Value: 7781.00
+Unrolled Striding Addr + Striding Value: 7765.00
+Loop Striding Addr + Random Value: 10474.00
+
+Iters = 970
+Loop Random Addr + Random Value: 7822.00
+Unrolled Random Addr + Random Value: 7823.00
+Loop Striding Addr + Striding Value: 7849.00
+Unrolled Striding Addr + Striding Value: 7851.00
+Loop Striding Addr + Random Value: 10773.00
+
+Iters = 980
+Loop Random Addr + Random Value: 7902.00
+Unrolled Random Addr + Random Value: 7903.00
+Loop Striding Addr + Striding Value: 7916.00
+Unrolled Striding Addr + Striding Value: 7917.00
+Loop Striding Addr + Random Value: 10891.50
+
+Iters = 990
+Loop Random Addr + Random Value: 7982.00
+Unrolled Random Addr + Random Value: 7983.00
+Loop Striding Addr + Striding Value: 8009.00
+Unrolled Striding Addr + Striding Value: 8010.00
+Loop Striding Addr + Random Value: 10999.00
+
+Iters = 1000
+Loop Random Addr + Random Value: 8062.00
+Unrolled Random Addr + Random Value: 8063.00
+Loop Striding Addr + Striding Value: 8083.00
+Unrolled Striding Addr + Striding Value: 8077.00
+Loop Striding Addr + Random Value: 11149.00
+
